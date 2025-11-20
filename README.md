@@ -1,66 +1,85 @@
-# 👋 Hi, I'm Sonu Kumar - Full Stack Developer
+# 👋 Hi, I'm Sonu Kumar - Senior Full Stack Developer
 
-🚀 **Passionate Full Stack Developer** specializing in **Java**, **JavaScript**, **TypeScript**, and **Modern Web Technologies**
+🚀 **Senior Full Stack Developer** with **7+ years** of expertise delivering enterprise-grade solutions across **Automotive**, **Healthcare**, **Aviation**, and **Financial** domains.
 
 ## 💻 Tech Stack & Expertise
 
 ### Backend Development
-
-- **Java Ecosystem**: Core Java, Advanced Java, Spring Framework (Core, MVC, Boot)
+- **Java Ecosystem**: Java, Spring Core, Spring Boot, Spring MVC
 - **Build Tools**: Maven, Gradle
-- **Databases**: MySQL, Oracle, MongoDB, SQL
+- **APIs & Architecture**: REST APIs, Microservices
+- **Additional**: Node.js, Python
 
 ### Frontend Development
+- **Core Technologies**: HTML5, CSS3, SCSS, JavaScript, TypeScript
+- **Frameworks**: Angular, ReactJS, Angular Material, Bootstrap
+- **Desktop & Advanced**: ElectronJS, NgRx, Lit Framework
 
-- **JavaScript/TypeScript**: ES6+, Modern JavaScript, TypeScript
-- **Frameworks**: Angular, ReactJS, Angular Material
-- **Styling**: HTML5, CSS3, SCSS
-- **Desktop**: ElectronJS, Lit Framework
+### Database & Storage
+- **Relational**: SQL, MySQL, Oracle
+- **NoSQL**: MongoDB
 
-### Additional Skills
+### Tools & DevOps
+- **Version Control**: Git
+- **Containerization**: Docker
+- **CI/CD**: Jenkins
+- **Cloud**: AWS
+- **Project Management**: Jira
+- **Testing**: Jasmine, Karma
 
-- **Python Development**
-- **Database Design & Optimization**
-- **RESTful API Development**
-- **Responsive Web Design**
+## 🏢 Enterprise Client Experience
+
+**Fortune 500 Clients I've Delivered Solutions For:**
+- 🚗 **Mercedes-Benz** - Automotive Solutions & Global Operations
+- 🏥 **GE HealthCare** - Medical Technology Systems
+- ✈️ **flydubai** - Aviation & Travel Solutions
+- 💼 **TIAA** - Financial Services & Insurance Solutions
+- 🏥 **Association of American Medical Colleges** - Healthcare Technology
 
 ## 🔥 What I Do
 
-- Build **scalable web applications** with Java Spring Boot & Angular/React
-- Develop **cross-platform desktop apps** using ElectronJS
-- Create **responsive, modern UIs** with TypeScript & SCSS
-- Design **efficient database schemas** for MySQL, Oracle & MongoDB
-- Implement **RESTful APIs** and **microservices architecture**
+- **Enterprise Applications**: Scalable web applications with Java Spring Boot & Angular/React
+- **Microservices Architecture**: Design and implement distributed systems
+- **Cross-Platform Development**: Desktop applications using ElectronJS
+- **Modern UI/UX**: Responsive interfaces with TypeScript & SCSS
+- **Database Design**: Efficient schemas for MySQL, Oracle & MongoDB
+- **DevOps Integration**: CI/CD pipelines and cloud deployment
 
-## 🏢 Client Experience
+## 💼 Current Role
 
-**Enterprise Clients I've Worked With:**
-- 🚗 **Mercedes-Benz** - Automotive Solutions
-- 🏥 **Association of American Medical Colleges** - Healthcare Technology
-- ✈️ **flydubai** - Aviation & Travel Solutions
-- 🏥 **GE HealthCare** - Medical Technology Systems
-- 💼 **TIAA** - Financial Services & Insurance Solutions
+**Packaged App Development Team Lead** at **Accenture** (Sep 2024 - Present)
+- Leading microservices-based application development
+- Building micro frontend applications for enterprise modules
+- Implementing CI/CD pipelines and DevOps workflows
+
+## 🎓 Education
+
+**Bachelor of Engineering in Computer Science**  
+Radharaman Institute of Technology & Science | 2012-2016 | GPA: 7.43/10
+
+## 🌟 Domain Expertise
+
+- 💼 **Financial Services & Insurance**
+- 🏥 **Healthcare & Medical Technology**
+- ✈️ **Aviation & Travel Solutions**
+- 💻 **Technology Consulting**
+- 🚗 **Automotive Industry**
 
 ## 📊 GitHub Stats
 
 ![Sonu Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonuskr&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonuskr&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-
-- 🔗 **[E-Commerce Platform]** - Full Stack Java Spring Boot + Angular Application
-- 🔗 **[Analytics Dashboard]** - React TypeScript Dashboard with MongoDB
-- 🔗 **[Desktop App]** - ElectronJS Cross-Platform Application
-
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/dev-sonu-kumar](https://www.linkedin.com/in/dev-sonu-kumar)
-- 🐦 GitHub: [https://github.com/sonuskr](https://github.com/sonuskr)
-- 📧 Email: dev.sonu.kumar@gmail.com
-- 🌐 Portfolio: [sonuskr.github.io](https://sonuskr.github.io)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/dev-sonu-kumar](https://www.linkedin.com/in/dev-sonu-kumar)
+- 🐙 **GitHub**: [https://github.com/sonuskr](https://github.com/sonuskr)
+- 📧 **Email**: sonukumarraj007@gmail.com
+- 🌐 **Portfolio**: [sonuskr.github.io](https://sonuskr.github.io)
+- 📍 **Location**: Marathahalli, Bangalore, India
 
 ---
 
-⭐ **Open to collaboration on Java, JavaScript, TypeScript, and Full Stack projects!**
+⭐ **Available for remote work, enterprise consulting, and full-time opportunities!**
 
-**Sonu Kumar** | **Full Stack Developer** | **Java Spring Boot Angular React Developer** | **JavaScript TypeScript Expert**
+**Sonu Kumar** | **Senior Full Stack Developer** | **Enterprise Solutions Expert** | **Java Spring Boot Angular React Specialist**
