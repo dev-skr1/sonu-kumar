@@ -75,7 +75,7 @@ Radharaman Institute of Technology & Science | 2012-2016 | GPA: 7.43/10
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/sonuskr](https://www.linkedin.com/in/sonuskr)
 - 🐙 **GitHub**: [https://github.com/sonuskr](https://github.com/sonuskr)
 - 📧 **Email**: sonukumarraj007@gmail.com
-- 🌐 **Portfolio**: [sonuskr.github.io](https://sonuskr.github.io)
+- 🌐 **Portfolio**: [sonuskr.github.io/sonuskr](https://sonuskr.github.io/sonuskr/)
 - 📍 **Location**: Marathahalli, Bangalore, India
 
 ---
