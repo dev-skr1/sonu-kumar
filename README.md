@@ -1,96 +1,57 @@
-# 👋 Hi, I'm Sonu Kumar
+# 👋 Hi, I'm Sonu Kumar - Full Stack Developer
 
-**Experienced Software Developer | Quantitative Trading Enthusiast | Full-Stack Engineer**
+🚀 **Passionate Full Stack Developer** specializing in **Java**, **JavaScript**, **TypeScript**, and **Modern Web Technologies**
 
-With over 8+ years of experience in building high-performance software applications, I specialize in:
+## 💻 Tech Stack & Expertise
 
----
+### Backend Development
 
-## 🔧 Tech Stack
+- **Java Ecosystem**: Core Java, Advanced Java, Spring Framework (Core, MVC, Boot)
+- **Build Tools**: Maven, Gradle
+- **Databases**: MySQL, Oracle, MongoDB, SQL
 
-- **Languages**: Python, Java, JavaScript, TypeScript, HTML5, CSS3, SQL
-- **Frameworks/Libraries:** Spring Boot, Flask, React.js, Angular, Pandas, NumPy, Matplotlib, Backtrader
-- **Frontend**: Angular, React.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **DevOps**: Git, Docker, CI/CD
-- **Tools**: VS Code, Jupyter, Postman, Anaconda
+### Frontend Development
 
----
+- **JavaScript/TypeScript**: ES6+, Modern JavaScript, TypeScript
+- **Frameworks**: Angular, ReactJS, Angular Material
+- **Styling**: HTML5, CSS3, SCSS
+- **Desktop**: ElectronJS, Lit Framework
 
-## 💹 Quantitative & Algorithmic Trading (3+ Years)
+### Additional Skills
 
-I specialize in developing tools and strategies for:
+- **Python Development**
+- **Database Design & Optimization**
+- **RESTful API Development**
+- **Responsive Web Design**
 
-- 🧠 Backtesting engines using **Backtrader**, **Pandas**, and **NumPy**
-- 📊 Options, equity, and index strategies
-- 🔄 Automation with APIs like **Fyers**, **ICICI Breeze**
-- 📆 Indian stock market calendar: holidays, expiry, and trading sessions
-- 💹 Developed and backtested strategies like **Iron Butterfly**, **Straddle**, **Strangle** using real option data.
-- 🧠 Built custom backtest engines integrating **Fyers**, **BreezeConnect**, and **NSEpy**.
+## 🔥 What I Do
 
+- Build **scalable web applications** with Java Spring Boot & Angular/React
+- Develop **cross-platform desktop apps** using ElectronJS
+- Create **responsive, modern UIs** with TypeScript & SCSS
+- Design **efficient database schemas** for MySQL, Oracle & MongoDB
+- Implement **RESTful APIs** and **microservices architecture**
 
-### ✅ Launched Python Library:
+## 📊 GitHub Stats
 
-🔗 [`niftyTradeCalendar`](https://pypi.org/project/niftyTradeCalendar/)  
-_A Python library for managing Indian stock market holidays, weekly expiry dates, and trading day sessions._
+![Sonu Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-skr1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-skr1&layout=compact&theme=radical)
 
----
+## 🌟 Featured Projects
 
-## 🚀 Current Focus
+- 🔗 **[E-Commerce Platform]** - Full Stack Java Spring Boot + Angular Application
+- 🔗 **[Analytics Dashboard]** - React TypeScript Dashboard with MongoDB
+- 🔗 **[Desktop App]** - ElectronJS Cross-Platform Application
 
-- Quantitative Research & Trading Roles
-- Python Libraries for Finance
-- High-Frequency Strategy Backtesting
-- Portfolio Management Automation
+## 📫 Let's Connect
 
----
-
-## 🔎 Keywords for SEO
-
-Sonu Kumar Python Developer | Sonu Kumar Java Developer | Sonu Kumar Angular Developer | Sonu Kumar ReactJS Developer | Sonu Kumar Full Stack Developer |
-Spring boot microservices | RESTful microservices micro | frontend architecture | cross-team frontend development | micro frontend monorepo |
-Quant Developer India | Algo Trading Python | Options Strategy Backtest | niftyTradeCalendar | Indian stock market holidays | Python Quant Tools |
-Spring Boot Angular Full Stack Developer | Spring Boot ReactJS Full Stack Developer | NSE Options Backtest | Nifty Weekly Expiry | Fyers API | BreezeConnect | 
-Backtrader | Iron Butterfly | Straddle Strategy
-
+- 💼 LinkedIn: [https://www.linkedin.com/in/dev-sonu-kumar](https://www.linkedin.com/in/dev-sonu-kumar)
+- 🐦 GitHub: [https://github.com/dev-skr1](https://github.com/dev-skr1)
+- 📧 Email: dev.sonu.kumar@gmail.com
+- 🌐 Portfolio: [dev-skr1.github.io](https://dev-skr1.github.io)
 
 ---
 
-## 📫 Connect With Me
+⭐ **Open to collaboration on Java, JavaScript, TypeScript, and Full Stack projects!**
 
-- 💼 [LinkedIn – Sonu Kumar](https://www.linkedin.com/in/sonu-kumar-full-stack-dev)
-- 💻 [GitHub – Sonu Kumar](https://github.com/sonu-kumar-full-stack-dev)
-- 🐍 [PyPI – niftyTradeCalendar](https://pypi.org/project/niftyTradeCalendar/)
-
----
-
-## 📈 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sonu-kumar-full-stack-dev&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="Sonu Kumar's GitHub stats" width="50%" />  
-<br>
-
-<img src="https://streak-stats.demolab.com?user=sonu-kumar-full-stack-dev&theme=radical&hide_border=false" alt="GitHub Streak" width="50%" />
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-kumar-full-stack-dev&layout=compact&theme=radical&langs_count=10&hide_border=false" alt="Top Languages" width="50%" />
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonu-kumar-full-stack-dev&theme=radical&margin-w=15&no-frame=true&row=1&column=6" alt="GitHub Trophy" width="100%" />
-
-</div>
-
-
-
----
-
-
-
-
-> _“Passionate about blending technology with trading to build scalable, data-driven strategies.”_
-
-
-
----
-
+**Sonu Kumar** | **Full Stack Developer** | **Java Spring Boot Angular React Developer** | **JavaScript TypeScript Expert**
