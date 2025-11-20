@@ -29,7 +29,7 @@ function downloadPDF() {
       heightLeft -= pageHeight;
     }
 
-    pdf.save("Sonu_Kumar_Resume.pdf");
+    pdf.save("Sonu_Kumar_Senior_Full_Stack_Developer_7_Years_Experience.pdf");
 
     // Show download button again
     button.style.display = "block";

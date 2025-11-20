@@ -1,3 +1,28 @@
+:root {
+  /* Theme Colors */
+  --primary-color: #667eea;
+  --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --secondary-color: #764ba2;
+  --accent-color: #f8f9fa;
+  --text-primary: #333;
+  --text-secondary: #666;
+  --text-muted: #555;
+  --background-gradient: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  --white: #ffffff;
+  --border-color: #e9ecef;
+  
+  /* Typography */
+  --font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --line-height: 1.6;
+  
+  /* Spacing */
+  --border-radius: 8px;
+  --border-radius-large: 10px;
+  --border-radius-pill: 25px;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,25 +30,25 @@
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  font-family: var(--font-family);
+  line-height: var(--line-height);
+  color: var(--text-primary);
+  background: var(--background-gradient);
   min-height: 100vh;
 }
 
 .container {
   max-width: 900px;
   margin: 20px auto;
-  background: white;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
+  background: var(--white);
+  box-shadow: var(--shadow);
+  border-radius: var(--border-radius-large);
   overflow: hidden;
 }
 
 .header {
-  background: #667eea;
-  color: white;
+  background: var(--primary-color);
+  color: var(--white);
   padding: 40px 30px;
   text-align: center;
 }
@@ -58,7 +83,7 @@ body {
   gap: 8px;
   font-size: 0.95em;
   opacity: 0.95;
-  color: white;
+  color: var(--white);
   text-decoration: none;
   transition: opacity 0.3s ease;
 }
@@ -75,7 +100,7 @@ body {
 }
 
 .sidebar {
-  background: #f8f9fa;
+  background: var(--accent-color);
   padding: 30px;
 }
 
@@ -88,10 +113,10 @@ body {
 }
 
 .section h2 {
-  color: #667eea;
+  color: var(--primary-color);
   font-size: 1.4em;
   margin-bottom: 15px;
-  border-bottom: 2px solid #667eea;
+  border-bottom: 2px solid var(--primary-color);
   padding-bottom: 5px;
 }
 
@@ -103,25 +128,25 @@ body {
 }
 
 .skill-item {
-  background: white;
+  background: var(--white);
   padding: 8px 12px;
   border-radius: 20px;
   text-align: center;
   font-size: 0.9em;
-  border: 1px solid #e9ecef;
+  border: 1px solid var(--border-color);
   transition: all 0.3s ease;
 }
 
 .skill-item:hover {
-  background: #667eea;
-  color: white;
+  background: var(--primary-color);
+  color: var(--white);
   transform: translateY(-2px);
 }
 
 .experience-item {
   margin-bottom: 25px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #e9ecef;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .experience-item:last-child {
@@ -131,17 +156,17 @@ body {
 .job-title {
   font-size: 1.2em;
   font-weight: 600;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .company {
-  color: #667eea;
+  color: var(--primary-color);
   font-weight: 500;
   margin: 5px 0;
 }
 
 .duration {
-  color: #666;
+  color: var(--text-secondary);
   font-size: 0.9em;
   margin-bottom: 10px;
 }
@@ -159,7 +184,7 @@ body {
 
 .achievements li:before {
   content: "▸";
-  color: #667eea;
+  color: var(--primary-color);
   position: absolute;
   left: 0;
 }
@@ -170,36 +195,36 @@ body {
 
 .degree {
   font-weight: 600;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .university {
-  color: #667eea;
+  color: var(--primary-color);
   margin: 2px 0;
 }
 
 .year {
-  color: #666;
+  color: var(--text-secondary);
   font-size: 0.9em;
 }
 
 .summary {
-  background: #f8f9fa;
+  background: var(--accent-color);
   padding: 20px;
-  border-radius: 8px;
+  border-radius: var(--border-radius);
   margin-bottom: 25px;
-  border-left: 4px solid #667eea;
+  border-left: 4px solid var(--primary-color);
 }
 
 .download-btn {
   position: fixed;
   top: 20px;
   right: 20px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--primary-gradient);
+  color: var(--white);
   border: none;
   padding: 12px 20px;
-  border-radius: 25px;
+  border-radius: var(--border-radius-pill);
   cursor: pointer;
   font-size: 14px;
   font-weight: 600;
@@ -210,13 +235,13 @@ body {
 
 .download-btn:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+  box-shadow: var(--shadow-hover);
 }
 
 .skill-category {
   margin-top: 20px;
   margin-bottom: 10px;
-  color: #555;
+  color: var(--text-muted);
 }
 
 .certifications-list {
