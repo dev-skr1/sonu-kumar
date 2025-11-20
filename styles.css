@@ -198,6 +198,54 @@ body {
     box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
 }
 
+.skill-category {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.certifications-list {
+    list-style: none;
+}
+
+.certifications-list li {
+    margin-bottom: 8px;
+}
+
+.client-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.client-card {
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.client-tiaa {
+    background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+.client-ge {
+    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.client-flydubai {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.client-aamc {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.client-mercedes {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
 @media (max-width: 768px) {
     .main-content {
         grid-template-columns: 1fr;
