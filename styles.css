@@ -237,32 +237,61 @@ body {
 }
 
 /* Education */
+.education-line {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.education-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.education-center {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.education-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: right;
+}
+
 .education-title {
-  color: #1f2937;
-  font-weight: 600;
-  margin-bottom: 4px;
+  color: var(--text-secondary);
+  font-weight: normal;
+  font-size: 16px;
 }
 
 .institution {
-  color: var(--secondary-color);
-  font-weight: 600;
-  margin-bottom: 8px;
+  color: var(--text-secondary);
+  font-weight: normal;
+  font-size: 15px;
 }
 
-.gpa-badge {
-  display: inline-block;
-  background-color: #f3f4f6;
-  padding: 8px 12px;
-  border-radius: 4px;
-  margin-top: 8px;
+.education-duration {
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 14px;
 }
 
-.gpa-label {
-  color: var(--text-muted);
+.education-location {
+  color: var(--text-secondary);
+  font-size: 14px;
 }
 
-.gpa-value {
-  color: var(--secondary-color);
+.gpa-info {
+  color: var(--text-secondary);
+  font-size: 14px;
 }
 
 /* Domain and Client Lists */
