@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /pages/
+Disallow: /data/
+Disallow: /resume-builder.html
+
 Sitemap: https://sonuskr.github.io/sonuskr/sitemap.xml
