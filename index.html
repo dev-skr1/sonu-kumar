@@ -2,9 +2,11 @@
 <html lang="en">
   <head>
     <!-- SEO Metadata -->
-    <script src="metadata.js"></script>
-    <script src="name-keywords.js"></script>
-    <script src="social-metadata.js"></script>
+    <script src="js/metadata.js"></script>
+    <script src="js/name-keywords.js"></script>
+    <script src="js/trading-keywords.js"></script>
+    <script src="js/content-keywords.js"></script>
+    <script src="js/social-metadata.js"></script>
     <script>
       // Inject meta tags from metadata.js
       document.addEventListener('DOMContentLoaded', function() {
@@ -26,14 +28,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sonu Kumar - Senior Full Stack Developer | Team Lead at Accenture | Java Spring Boot Angular React | 7.5+ Years Enterprise Experience</title>
     <meta name="description" content="Senior Full Stack Developer & Team Lead at Accenture with 7.5+ years enterprise experience. Expert in Java Spring Boot, Angular, React, TypeScript, Microservices, System Architecture, REST APIs, AWS, DevOps, CI/CD. Delivered scalable solutions for Fortune 500 clients: Mercedes-Benz, GE HealthCare, TIAA, flydubai, AAMC. Specializing in end-to-end development, code review, performance optimization. Available for remote work opportunities." />
-    <!-- Enhanced keywords from social-metadata.js -->
+    <!-- Enhanced keywords from all keyword files -->
     <script>
-      if (typeof generateSEOKeywords === 'function') {
-        document.write('<meta name="keywords" content="' + generateSEOKeywords() + '" />');
-      }
+      // Combine keywords from all files when available
+      document.addEventListener('DOMContentLoaded', function() {
+        const allKeywords = [];
+        if (typeof nameKeywords !== 'undefined') allKeywords.push(...nameKeywords);
+        if (typeof tradingKeywords !== 'undefined') allKeywords.push(...tradingKeywords);
+        if (typeof contentKeywords !== 'undefined') allKeywords.push(...contentKeywords);
+        
+        if (allKeywords.length > 0) {
+          const keywordsMetaTag = document.querySelector('meta[name="keywords"]');
+          if (keywordsMetaTag) {
+            keywordsMetaTag.setAttribute('content', allKeywords.slice(0, 150).join(', '));
+          }
+          console.log(`Total SEO Keywords loaded: ${allKeywords.length}`);
+        }
+      });
     </script>
     <!-- Fallback keywords -->
-    <meta name="keywords" content="software developer, full stack developer, web developer, java developer, spring boot, angular, react, typescript, javascript, senior developer, tech lead, team lead, enterprise developer, bangalore developer, remote developer, microservices, rest api, system architecture, aws, devops, agile development" />
+    <meta name="keywords" content="Sonu Kumar, software developer, full stack developer, web developer, java developer, spring boot, angular, react, typescript, javascript, senior developer, tech lead, team lead, enterprise developer, bangalore developer, remote developer, microservices, rest api, system architecture, aws, devops, agile development, trader, options trading, intraday trading, delivery trading, mutual funds, ETF trading, 5 years trading experience" />
     <meta name="author" content="Sonu Kumar" />
     <meta name="robots" content="index, follow" />
     <!-- Enhanced social media tags from social-metadata.js -->
@@ -59,7 +73,7 @@
     <link rel="stylesheet" href="styles.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
     <!-- Structured Data from metadata.js -->
     <script>
       // Inject structured data from metadata.js
@@ -575,6 +589,6 @@
         </div>
       </div>
     </div>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
   </body>
 </html>
