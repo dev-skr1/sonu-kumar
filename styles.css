@@ -454,14 +454,16 @@ body {
 .btn-download,
 .btn-theme,
 .btn-font,
-.btn-create {
+.btn-create,
+.btn-tutorial {
   background-color: var(--primary-color);
 }
 
 .btn-download:hover,
 .btn-theme:hover,
 .btn-font:hover,
-.btn-create:hover {
+.btn-create:hover,
+.btn-tutorial:hover {
   opacity: 0.9;
   filter: brightness(0.95);
 }
